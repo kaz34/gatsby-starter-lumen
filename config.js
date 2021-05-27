@@ -12,16 +12,8 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
-      path: '/'
-    },
-    {
-      label: 'About me',
-      path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: '製作物',
+      path: '/pages/apps'
     }
   ],
   author: {
@@ -33,11 +25,11 @@ module.exports = {
       facebook: '',
       telegram: '',
       twitter: '',
-      github: 'https://github.com/kazumawada',
+      github: 'kazumawada',
       rss: '',
       vkontakte: '',
       linkedin: '',
-      instagram: 'https://www.instagram.com/kazumanogram/',
+      instagram: 'kazumanogram',
       line: '',
       gitlab: '',
       weibo: '',
